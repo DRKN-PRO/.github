@@ -1,0 +1,40 @@
+organization:
+  display_name: DRKN
+  description: AI-native trading intelligence infrastructure
+  website: null
+  social_links: []
+
+repositories:
+  drkn-web:
+    description: DRKN web application, account intelligence, copilot, and automation experience.
+    topics:
+      - ai
+      - fintech
+      - trading-platform
+      - react
+      - typescript
+      - crypto-infrastructure
+  drkn-backend:
+    description: FastAPI, workers, financial safety, market intelligence, and PostgreSQL authority for DRKN.
+    topics:
+      - python
+      - fastapi
+      - trading-engine
+      - market-data
+      - automation
+      - financial-systems
+  drkn-content:
+    description: Versioned content authority, Snapshot V2, publishing automation, and media pipelines for DRKN.
+    topics:
+      - content-platform
+      - cms
+      - automation
+      - media-pipeline
+  drkn-infra:
+    description: Docker orchestration, observability, immutable releases, provenance, and rollback for DRKN.
+    topics:
+      - docker
+      - devops
+      - kubernetes
+      - observability
+      - release-engineering

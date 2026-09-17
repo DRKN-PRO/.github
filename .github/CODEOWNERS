@@ -1,0 +1,8 @@
+* @yoocrypto2-wq
+
+# Replace the personal fallback with organization teams after those teams
+# exist. Invalid team references intentionally are not committed.
+/.github/ @yoocrypto2-wq
+/profile/ @yoocrypto2-wq
+/SECURITY.md @yoocrypto2-wq
+/CODE_OF_CONDUCT.md @yoocrypto2-wq

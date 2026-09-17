@@ -110,4 +110,4 @@ The DRKN organization is structured around clear product and engineering
 ownership. Developers can explore the repository map above to understand each
 area of the platform and its contribution standards.
 
-**Website:** not published · **Social channels:** not published
+**Website:** [drkn.pro](https://drkn.pro) · **X:** [@DRKNPRO](https://x.com/DRKNPRO)
